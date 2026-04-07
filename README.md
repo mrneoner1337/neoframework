@@ -6,7 +6,6 @@
 
 **Premium Roblox Script Collection**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
 [![Scripts](https://img.shields.io/badge/Scripts-Free-6F5AFF?style=for-the-badge)](https://github.com/mrneoner1337/neoframework)
 [![Stars](https://img.shields.io/github/stars/mrneoner1337/neoframework?style=for-the-badge&color=yellow)](https://github.com/mrneoner1337/neoframework/stargazers)
 
@@ -20,10 +19,10 @@
 
 ## 📦 Scripts
 
-| Script | Game | Status | Loadstring |
-|--------|------|--------|------------|
-| 💬 Chat Auto-Repeater | Universal | ✅ Working | [Copy](#-chat-auto-repeater) |
-| *More coming soon...* | — | 🔜 Soon | — |
+| Script | Game | Status |
+|--------|------|--------|
+| [💬 Chat Auto-Repeater](#-chat-auto-repeater) | Universal | ✅ Working |
+| *More coming soon...* | — | 🔜 Soon |
 
 ---
 
@@ -41,3 +40,17 @@ Automatically sends messages to chat with custom interval.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/chatrepeater.lua"))()
+🛠️ Installation
+Open your executor (Solara, Wave, etc.)
+Copy the loadstring
+Paste & Execute
+Done! 🎉
+⚠️ Disclaimer
+These scripts are for educational purposes only. Use at your own risk. I am not responsible for any bans or issues.
+
+<div align="center">
+Made with 💜 by Neo's Hub
+
+Star ⭐ this repo if you like it!
+
+</div> ```

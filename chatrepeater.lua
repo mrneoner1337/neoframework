@@ -32,7 +32,7 @@ local Theme = {
 	Warning = Color3.fromRGB(255, 180, 50),
 }
 
--- Restricted regions (chat limited or Roblox blocked)
+-- Restricted regions (chat limited or Roblox blocked) 
 local restrictedRegions = {
 	RU = "Russia",
 	CN = "China",

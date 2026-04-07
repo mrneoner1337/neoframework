@@ -22,6 +22,7 @@
 | Script | Game | Status |
 |--------|------|--------|
 | [💬 Chat Auto-Repeater](#-chat-auto-repeater) | Universal | ✅ Working |
+| [⚡ Flex ur Playtime Glitcher](#-flex-ur-playtime-glitcher) | Flex ur Playtime | ✅ Working |
 | *More coming soon...* | — | 🔜 Soon |
 
 ---
@@ -38,8 +39,21 @@ Automatically sends messages to chat with custom interval.
 
 **Controls:** `INSERT` — hide/show • `F6` — start/stop
 
-```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/chatrepeater.lua"))()
+⚡ Flex ur Playtime Glitcher
+Glitch your playtime stats with custom values.
+
+Features:
+
+Send custom playtime values
+Auto-glitch mode with random numbers
+Real-time status display
+Sent counter
+Controls: INSERT — hide/show • ENTER — quick send
+
+Lua
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/flexplaytime.lua"))()
 🛠️ Installation
 Open your executor (Solara, Wave, etc.)
 Copy the loadstring
@@ -47,10 +61,3 @@ Paste & Execute
 Done! 🎉
 ⚠️ Disclaimer
 These scripts are for educational purposes only. Use at your own risk. I am not responsible for any bans or issues.
-
-<div align="center">
-Made with 💜 by Neo's Hub
-
-Star ⭐ this repo if you like it!
-
-</div> ```

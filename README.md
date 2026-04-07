@@ -22,7 +22,7 @@
 
 | Script | Game | Status | Loadstring |
 |--------|------|--------|------------|
-| 💬 Chat Auto-Repeater | Universal | ✅ Working | [Copy](loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/chatrepeater.lua"))()) |
+| 💬 Chat Auto-Repeater | Universal | ✅ Working | [Copy](#-chat-auto-repeater) |
 | *More coming soon...* | — | 🔜 Soon | — |
 
 ---

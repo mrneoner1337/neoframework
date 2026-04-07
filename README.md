@@ -42,24 +42,51 @@ Automatically sends messages to chat with custom interval.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/chatrepeater.lua"))()
 ```
 
-⚡ Flex ur Playtime Glitcher
-Glitch your playtime stats with custom values.
+<div align="center">
 
-Features:
+## ⚡ Flex ur Playtime Glitcher
 
-Send custom playtime values
-Auto-glitch mode with random numbers
-Real-time status display
-Sent counter
-Controls: INSERT — hide/show • ENTER — quick send
+**Glitch your playtime stats with custom values or auto-mode**
+
+![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
+![Game](https://img.shields.io/badge/Game-Flex%20ur%20Playtime-6F5AFF?style=for-the-badge)
+
+</div>
+
+---
+
+### 📋 Description
+
+Advanced playtime glitcher for "Flex ur Playtime" game. Send custom values or use auto-glitch mode with randomized numbers to boost your stats.
+
+---
+
+### ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 📊 **Custom Values** | Send any playtime value you want |
+| 🔥 **Auto-Glitch Mode** | Spam random numbers automatically |
+| 📈 **Live Status** | Real-time operation feedback |
+| 📤 **Counter** | Track sent messages |
+| 🎨 **Clean UI** | Beautiful animated interface |
+| ⌨️ **Hotkeys** | Quick actions with keyboard |
+
+---
+
+### 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| `INSERT` | Hide/Show menu |
+| `ENTER` | Quick send (when focused) |
+| Mouse drag | Move window |
+| `−` button | Minimize |
+| `X` button | Close |
+
+---
+
+### 🚀 Loadstring
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/flexplaytime.lua"))()
-```
-🛠️ Installation
-Open your executor (Solara, Wave, etc.)
-Copy the loadstring
-Paste & Execute
-Done! 🎉
-⚠️ Disclaimer
-These scripts are for educational purposes only. Use at your own risk. I am not responsible for any bans or issues.

@@ -38,8 +38,10 @@ Automatically sends messages to chat with custom interval.
 - Region detection
 
 **Controls:** `INSERT` — hide/show • `F6` — start/stop
-
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/chatrepeater.lua"))()
+```
+
 ⚡ Flex ur Playtime Glitcher
 Glitch your playtime stats with custom values.
 
@@ -51,9 +53,9 @@ Real-time status display
 Sent counter
 Controls: INSERT — hide/show • ENTER — quick send
 
-Lua
-
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/flexplaytime.lua"))()
+```
 🛠️ Installation
 Open your executor (Solara, Wave, etc.)
 Copy the loadstring

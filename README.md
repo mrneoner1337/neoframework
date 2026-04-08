@@ -22,6 +22,7 @@
 |--------|------|--------|
 | [💬 Chat Auto-Repeater](#-chat-auto-repeater) | Universal | ✅ Working |
 | [⚡ Flex ur Playtime Glitcher](#-flex-ur-playtime-glitcher) | [Flex ur Playtime](https://www.roblox.com/games/88837165999293/Flex-ur-Playtime) | ✅ Working |
+| [⛵ BABFT Farm](#-babft-farm) | [Build a Boat for Treasure](https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure) | ✅ Working |
 | *More coming soon...* | — | 🔜 Soon |
 
 ---
@@ -116,6 +117,53 @@ Advanced playtime glitcher for "Flex ur Playtime" game. Send custom values or us
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/refs/heads/main/flexplaytime.lua"))()
+```
+## ⛵ BABFT Farm
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
+![Game](https://img.shields.io/badge/Game-Build%20a%20Boat-6F5AFF?style=for-the-badge)
+
+**Game Link:** [Build a Boat for Treasure](https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure)
+
+</div>
+
+### 📋 Description
+
+Automatic farming script for Build a Boat for Treasure. Teleports through all cave stages and collects chest rewards.
+
+---
+
+### ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🚀 **Auto Teleport** | Teleports through 10 cave stages |
+| 📦 **Auto Collect** | Collects golden chest automatically |
+| ⏱️ **Teleport Delay** | Adjustable delay (0.1-5 sec) |
+| 🔄 **Run Delay** | Adjustable delay between runs (1-15 sec) |
+| 🛡️ **Anti AFK** | Prevents kick for inactivity |
+| 📊 **Run Counter** | Tracks completed runs |
+| 🎨 **Clean UI** | Beautiful animated interface |
+
+---
+
+### 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| `INSERT` | Hide/Show menu |
+| Mouse drag | Move window |
+| `−` button | Minimize |
+| `X` button | Close |
+
+---
+
+### 🚀 Loadstring
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mrneoner1337/neoframework/main/babftfarm.lua"))()
 ```
 ## 🛠️ Installation
 
